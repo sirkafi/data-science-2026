@@ -26,6 +26,21 @@ https://github.com/sirkafi/data-science-2026/blob/main/Pertemuan6_Muhammad_Sir_K
 Pertemuan 7 – Regresi Linear & Prediksi
 https://github.com/sirkafi/data-science-2026/blob/main/Pertemuan7_Muhammad_Sir_Kafi_El_Migwar_250401020081.ipynb
 
+Pertemuan 9 – Algoritma Klasifikasi (Bagian 1): Logistic Regression, Decision Trees, Confusion Matrix, Accuracy, Precision, Recall, dan 
+F1-Score. 
+https://github.com/sirkafi/data-science-2026/blob/main/Pertemuan9_Muhammad_Sir_Kafi_El_Migwar_250401020081.ipynb
+
+Pertemuan 10 – Algoritma Klasifikasi (Bagian 2): Metode Ensemble (Random Forest) dan penanganan Imbalanced Dataset.
+https://github.com/sirkafi/data-science-2026/blob/main/Pertemuan10_Muhammad_Sir_Kafi_El_Migwar_250401020081.ipynb
+
+Pertemuan 11 – Unsupervised Learning (Clustering): K-Means, Hierarchical Clustering, dan Metode Elbow untuk menentukan jumlah cluster optimal 
+https://github.com/sirkafi/data-science-2026/blob/main/Pertemuan11_Muhammad_Sir_Kafi_El_Migwar_250401020081.ipynb
+
+Pertemuan 12 – Asosiasi Data & Sistem Rekomendasi Dasar: Algoritma Apriori (Market Basket Analysis) dan konsep Collaborative/Content-Based Filtering
+https://github.com/sirkafi/data-science-2026/blob/main/Pertemuan12_Muhammad_Sir_Kafi_El_Migwar_250401020081.ipynb
+
+Pertemuan 13 – Pengantar Deep Learning & NLP Dasar: konsep dasar Artificial Neural Network, serta pemrosesan teks sederhana dengan TF-IDF untuk analisis sentimen
+https://github.com/sirkafi/data-science-2026/blob/main/Pertemuan13_Muhammad_Sir_Kafi_El_Migwar_250401020081.ipynb
 **Tools & Library yang Digunakan**
 Python
 Google Colab / Jupyter Notebook
@@ -35,7 +50,7 @@ Matplotlib
 Seaborn
 Scikit-learn
 
-Kesimpulan Pembelajaran (Pertemuan 1–7)
+Kesimpulan Pembelajaran (Pertemuan 1–13)
 
 Selama proses pembelajaran Data Science dari pertemuan 1 hingga 7, saya mendapatkan pemahaman bertahap mulai dari konsep dasar hingga implementasi sederhana machine learning.
 Saya belajar bagaimana mengolah data mentah menjadi data yang siap dianalisis melalui proses cleaning dan preprocessing. Selain itu, saya juga memahami pentingnya eksplorasi data (EDA) dan visualisasi dalam membantu menemukan pola dan insight dari data.
