@@ -52,6 +52,5 @@ Scikit-learn
 
 Kesimpulan Pembelajaran (Pertemuan 1–13)
 
-Selama proses pembelajaran Data Science dari pertemuan 1 hingga 7, saya mendapatkan pemahaman bertahap mulai dari konsep dasar hingga implementasi sederhana machine learning.
-Saya belajar bagaimana mengolah data mentah menjadi data yang siap dianalisis melalui proses cleaning dan preprocessing. Selain itu, saya juga memahami pentingnya eksplorasi data (EDA) dan visualisasi dalam membantu menemukan pola dan insight dari data.
-Pada tahap akhir, saya diperkenalkan dengan konsep machine learning sederhana seperti regresi linear untuk melakukan prediksi berdasarkan data yang ada. Secara keseluruhan, pembelajaran ini memberikan fondasi penting dalam memahami workflow Data Science secara end-to-end.
+Selama proses pembelajaran Data Science dari pertemuan 1 hingga 13, saya mendapatkan pemahaman bertahap mulai dari konsep dasar hingga implementasi sederhana machine learning.
+Selama Sesi 1–13, saya mempelajari workflow Data Science secara end-to-end, mulai dari data cleaning, preprocessing, visualisasi (EDA), hingga pemodelan supervised learning berbasis regresi linear. Pemahaman ini makin diperluas melalui penerapan algoritma klasifikasi (Logistic Regression, Decision Trees, dan Random Forest) beserta evaluasi metriknya untuk kasus seperti Customer Churn Prediction, teknik unsupervised learning (K-Means, Hierarchical Clustering, dan metode Elbow), analisis asosiasi data (Apriori) untuk sistem rekomendasi, hingga pengantar Deep Learning (ANN) dan NLP sederhana menggunakan TF-IDF untuk analisis sentimen.
